@@ -9,15 +9,15 @@ function HeaderTop() {
 
   return (
    <nav class="headerTop">
-      {/*<ul class="leftMenu">
-        <li class="Menu2">
+      <ul class="leftMenu">
+        {/*<li class="Menu2">
           <select name="currency" id="currency">
             <option value="dollar">US dollar</option>
             <option value="Naira">NGN Naira</option>
           </select>
-        </li>
+  </li>*/}
         <RightMenu />
-  </ul>*/}
+  </ul>
     </nav>
   );
 }

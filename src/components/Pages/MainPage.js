@@ -24,6 +24,7 @@ import RFQ from "./rfq";
 
 import Cards from "../card/CardsRows";
 import headerLogo from "../headerLogo";
+import FixedCartButton from "./FixedCartButton";
 
 
 
@@ -44,8 +45,9 @@ function Page() {
         </Row>
       </div>
       <div className="col-12 mx-auto my-4">
-        <FeaturedLinks />
+       <FeaturedLinks />
       </div> 
+      <FixedCartButton/>
      
       <div className="col-12 mx-auto my-4">
         <headerLogo />
@@ -87,6 +89,7 @@ function Page() {
       
         <div className="group d-flex">
         <RFQ/>
+        
                 </div>
         </div>
         
@@ -112,6 +115,7 @@ function Page() {
         </div>
       </div> */}
         <Footer />
+        
       <FixedSocialLinks />
       <MainHeader />
     </>
