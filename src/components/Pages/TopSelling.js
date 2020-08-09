@@ -33,7 +33,7 @@ import CartPage from "./cartPage";
 import CartTable from '../checkoutpage';
 import Form from "../LogiisticsUserForm"
 import LogisticsForm from "../LogisticsFormDetails";
-
+import AtataPay from "../AtataServicesPage/AtataPayPage";
 
 
 
@@ -48,7 +48,8 @@ class TopSelling extends Component {
           <div className="row mt-5 mb-5">
 
 
-         <LogisticsForm/>
+         <AtataPay/>
+
 
    
 

@@ -12,12 +12,14 @@
     "bootstrap": "^4.5.0",
     "bootstrap-select": "^1.13.13",
     "elegant-icons": "0.0.1",
+    "materialize-css": "^1.0.0-rc.2",
     "primereact": "^4.2.0",
     "react": "^16.13.0",
     "react-bootstrap": "^1.0.1",
     "react-country-flag": "^2.0.1",
     "react-country-region-selector": "^2.1.0",
     "react-dom": "^16.13.0",
+    "react-elastic-carousel": "^0.6.7",
     "react-flags-select": "^1.1.12",
     "react-hook-form": "^5.4.2",
     "react-mdl": "^2.1.0",
@@ -35,7 +37,8 @@
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.88.2",
     "slick-carousel": "^1.8.1",
-    "styled-components": "^5.1.0"
+    "styled-components": "^5.1.0",
+    "swiper": "^6.1.1"
   },
   "scripts": {
     "start": "react-scripts start",

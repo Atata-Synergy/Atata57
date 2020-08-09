@@ -6,7 +6,7 @@ import img4 from "../Image/Computer.png";
 import img5 from "../Image/clothe3.png";
 import img6 from "../Image/machine1.png";
 import styled from "styled-components";
-import "./card-style.css"
+
 
 
 function Card(props){

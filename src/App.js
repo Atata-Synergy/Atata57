@@ -18,10 +18,10 @@ import ProductPage from "./components/Pages/ProductsPage";
 import PreviewPage from "./components/Pages/PreviewPage";
 import AtataCareer from "../src/components/AtataServicesPage/Atata-careerPage";
 import AtataInsurance from "../src/components/AtataServicesPage/Atata-insurancePage";
-import AtataLogistics from "../src/components/AtataServicesPage/Atata-logisticsPage";
+import AtataLogistics from "./components/AtataServicesPage/AtatalogisticsPage";
 import AtataWallet from "../src/components/AtataServicesPage/Atata-walletPage";
 import AtataWarehouse from "../src/components/AtataServicesPage/Atata-warehousePage";
-import AtataPay from "../src/components/AtataServicesPage/AtataPay-Page";
+import AtataPay from "./components/AtataServicesPage/AtataPayPage";
 import TopSelling from "./components/Pages/TopSelling"
 import Blog from "./components/Pages/Blog"
 
